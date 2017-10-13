@@ -12,7 +12,10 @@ using namespace std;
 int main()
 {
 	int num;
-	cout << "hello";
+
+	Add nx(2, 5);
+
+	cout << "hello" << nx.GetSum();
 	cin >> num;
 	return 0;
 }
