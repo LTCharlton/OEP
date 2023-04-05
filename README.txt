@@ -1,3 +1,3 @@
 # OEP
 
-This was a proect to practice using Classes
+This was a project to practice using Classes
